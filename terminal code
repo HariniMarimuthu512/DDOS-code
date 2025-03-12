@@ -1,0 +1,7 @@
+//Terminal code
+harini@kali-[~]
+$-git clone https://github.com/GinjaChris/pentmenu
+harini@kali-[~]
+$-cd pentmenu
+harini@kali-[~]
+$-./pentmenu
